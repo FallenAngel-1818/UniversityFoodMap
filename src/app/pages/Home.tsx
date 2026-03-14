@@ -10,7 +10,7 @@ import { mockRestaurants, todayRecommendations, categories, campuses, mockGroupO
 import { ChevronRight, Sparkles, Filter, SlidersHorizontal, Upload, Users, Plus, CheckCircle, ArrowRight, Clock, Store, Star } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { toast } from 'sonner';
-import heroBgImage from 'figma:asset/258ce63629ac7acdb6d401ec8702c019518a94d2.png';
+import heroBgImage from '../assets/258ce63629ac7acdb6d401ec8702c019518a94d2.png';
 
 export function Home() {
   const navigate = useNavigate();
