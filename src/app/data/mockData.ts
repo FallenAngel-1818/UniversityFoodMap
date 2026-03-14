@@ -1,5 +1,5 @@
 // 模拟餐厅数据
-import userAvatarImg from "figma:asset/4b532086ab4b8c4c0922054062399b7c109da694.png";
+const userAvatarImg = '/images/01.png';
 
 export interface Restaurant {
   id: string;
